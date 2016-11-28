@@ -4,3 +4,4 @@ clean :
 	rm -f *.toc
 	rm -f *.log
 	rm -f *.out
+	rm -f *.synctex.gz
