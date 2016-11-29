@@ -1,32 +1,4 @@
-A
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-
-
-# cv
+##### cv
 LettreMotiv&amp;CV
 
 **Compilation**
